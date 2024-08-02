@@ -68,7 +68,7 @@ def main():
             st.title("Welcome! Please log in or register to continue.")
 
             # Sidebar branding (optional)
-            logo_path = r"C:\Users\SBAL036\Pictures\SBA LOGO.png"  # Use raw string for the file path
+            logo_path =C:\Users\SBAL036\Pictures\SBA LOGO.jpg # Use raw string for the file path
             try:
                 st.sidebar.image(logo_path, use_column_width=True)
             except Exception as e:
